@@ -1,5 +1,5 @@
 # 💫 About Me:
-Shubs a CS student<br>Shubs like problem solving & coding<br>Shubs like learning<br>Shubs think he cool<br>Shubs think he smart
+Shubs a CS student<br>Shubs like to code<br>Shubs like learning<br>Shubs think he cool<br>Shubs think he smart
 
 
 ## 🌐 Socials:
