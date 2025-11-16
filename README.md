@@ -8,7 +8,7 @@
 <!-- ABOUT -->
 <div align="center">
   <p>
-    a super chill dev who loves building on cool ideas! currently exploring 
+    a super chill dev who loves building on cool ideas!<br/> currently exploring 
     <b>web dev</b>, <b>backend systems</b>, and <b>creative side-projects</b>.
     <br/>when I’m not coding, I’m probably dreaming.
   </p>
