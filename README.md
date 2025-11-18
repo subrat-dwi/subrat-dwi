@@ -55,10 +55,7 @@
     width="380"
   />
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=subrat-dwi&theme=prussian&hide_border=false" 
-    width="380"
-  />
+  <a href="https://git.io/streak-stats"><img width="380" src="https://streak-stats.demolab.com?user=subrat-dwi&theme=prussian" alt="GitHub Streak" /></a>
 
 </div>
 
