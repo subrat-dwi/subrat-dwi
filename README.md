@@ -37,7 +37,8 @@
   <div>
     <p><b><a href="https://krosskopy.subratdwivedi.dev/krosskopy" target="_blank">KrossKopy</a></b> — Web-based cross-device clipboard</p>
     <p><b><a href="https://volatileroom.subratdwivedi.dev" target="_blank">Volatile Room</a></b> — Minimalistic ephemeral private chat rooms</p>
-    <p><b><a href="https://subratdwivedi.dev" target="_blank">shubserver</a></b> — (work is in progress)</p>
+    <p><b><a href="https://subratdwivedi.dev" target="_blank">shubserver</a></b> — A Go backend service providing Auth, Password Manager,<br>
+      Notes APIs and more to my other cute little projects</p>
   </div>
 
   <img width="110" src="https://i.pinimg.com/originals/d3/6c/ec/d36cece974faf2eb660a0f688550035e.gif" />
@@ -49,11 +50,6 @@
 
 <!-- GITHUB STATS -->
 <div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=subrat-dwi&show_icons=true&theme=prussian&hide_border=false" 
-    width="380"
-  />
 
   <a href="https://git.io/streak-stats"><img width="380" src="https://streak-stats.demolab.com?user=subrat-dwi&theme=prussian" alt="GitHub Streak" /></a>
 
