@@ -35,6 +35,7 @@
 <!-- PROJECTS -->
 <div align="center">
   <div>
+    <p><b><a href="https://passman.subratdwivedi.dev" target="_blank">Passman</a></b> — Secure Cloud-based Password Manager</p>
     <p><b><a href="https://krosskopy.subratdwivedi.dev/krosskopy" target="_blank">KrossKopy</a></b> — Web-based cross-device clipboard</p>
     <p><b><a href="https://volatileroom.subratdwivedi.dev" target="_blank">Volatile Room</a></b> — Minimalistic ephemeral private chat rooms</p>
     <p><b><a href="https://github.com/subrat-dwi/shubserver" target="_blank">shubserver</a></b> — A Go backend service providing Auth, Password Manager,<br>
