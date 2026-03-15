@@ -80,23 +80,23 @@
 <div align="center">
 
   <a href="https://x.com/subrat2code" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=x&size=32&color=%236f9fec" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=x&size=32&color=%23ffffff" alt="x" />
   </a>
 
   <a href="https://linkedin.com/in/subrat-dwivedi" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&color=%236f9fec" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&color=%23ffffff" />
   </a>
 
   <a href="https://subratdwivedi.dev" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=link&size=32&color=%236f9fec" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=link&size=32&color=%23ffffff" />
   </a>
 
   <a href="https://blog.subratdwivedi.dev" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=hashnode&size=32&color=%236f9fec" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=hashnode&size=32&color=%23ffffff" />
   </a>
 
   <a href="https://instagram.com/dw1subrat" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=32&color=%236f9fec" />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=32&color=%23ffffff" />
   </a>
 
   <p>connect on discord : <b>_.ispy._</b></p>
