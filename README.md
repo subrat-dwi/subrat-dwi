@@ -3,7 +3,7 @@
   <img height="110" src="https://github.com/subrat-dwi/subrat-dwi/blob/main/onepiece-banner.jpg" />
 </p>
 
-<p align="center"><b>hii, i'm subrat</b></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5989B&center=true&repeat=false&width=435&lines=hii%2C+i'm+subrat" alt="Typing SVG" /></a></p>
 
 <!-- ABOUT -->
 <div align="center">
@@ -24,10 +24,13 @@
 
 <!-- SKILLS -->
 <div align="center">
-  <img 
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,go,linux,arch,next,react,js,ts,nodejs,express,docker,tailwind,postgres,mysql,mongodb,vercel,firebase,supabase,git,bash,java,vscode,neovim,figma&theme=dark&perline=8" alt="My Skills">
+</p>
+  <!-- <img 
     src="https://www.readmecodegen.com/api/social-icon?name=python%2Cgo%2Creact%2Cjavascript%2Ctailwindcss%2Cjava%2Cflutter%2Cfirebase%2Cmongodb%2Cpostgresql%2Cdocker%2Cexpress%2Cnodejs&size=40&bg=%23000000&color=%23ffffff&reverseBackground=true" 
     alt="skills"
-  />
+  /> -->
 </div>
 
 <br/>
@@ -52,7 +55,20 @@
 <!-- GITHUB STATS -->
 <div align="center">
 
-  <a href="https://git.io/streak-stats"><img width="380" src="https://streak-stats.demolab.com?user=subrat-dwi&theme=prussian" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrat-dwi&layout=donut&theme=tokyonight" 
+    alt="Top Languages" 
+  />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=subrat-dwi&theme=tokyonight&layout=compact" 
+    alt="GitHub Streak" 
+  />
+</a>
+
 
 </div>
 
