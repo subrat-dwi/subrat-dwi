@@ -10,7 +10,7 @@
   <p>
     a super chill dev who loves building on cool ideas!<br/> currently exploring 
     <b>web dev</b>, <b>backend systems</b>, and <b>creative side-projects</b>.
-    <br/>when I’m not coding, I’m probably dreaming.
+    <br/>when I’m not coding, I’m probably dreaming about coding.
   </p>
 
   <a href="https://subratdwivedi.dev" target="_blank">
