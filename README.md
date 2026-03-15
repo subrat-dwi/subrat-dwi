@@ -9,7 +9,7 @@
 <div align="center">
   <p>
     a super chill dev who loves building on cool ideas!<br/> currently exploring 
-    <b>web dev</b>, <b>backend systems</b>, and <b>creative side-projects</b>.
+    <b>backend systems</b>, <b>full-stack apps</b>, and <b>creative side-projects</b>.
     <br/>when I’m not coding, I’m probably dreaming about coding.
   </p>
 
@@ -25,7 +25,7 @@
 <!-- SKILLS -->
 <div align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,go,linux,arch,next,react,js,ts,nodejs,express,docker,tailwind,postgres,mysql,mongodb,vercel,firebase,supabase,git,bash,java,vscode,neovim,figma&theme=dark&perline=8" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=go,python,linux,arch,next,react,nodejs,ts,express,tailwind,postgres,mysql,mongodb,vercel,firebase,supabase,docker,bash,java,vscode,neovim,figma,godot,git&theme=dark&perline=8" alt="My Skills">
 </p>
   <!-- <img 
     src="https://www.readmecodegen.com/api/social-icon?name=python%2Cgo%2Creact%2Cjavascript%2Ctailwindcss%2Cjava%2Cflutter%2Cfirebase%2Cmongodb%2Cpostgresql%2Cdocker%2Cexpress%2Cnodejs&size=40&bg=%23000000&color=%23ffffff&reverseBackground=true" 
