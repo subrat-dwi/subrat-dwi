@@ -55,6 +55,90 @@
 ## Weekly CodePlay
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2055%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 19.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 105 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                329 commits         ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+🌆 Daytime                384 commits         ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+🌃 Evening                593 commits         ███████████░░░░░░░░░░░░░░   42.72 % 
+🌙 Night                  82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Tuesday                  216 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Wednesday                237 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Thursday                 137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Friday                   236 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Sunday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+C#                       2 hrs               ██████████░░░░░░░░░░░░░░░   40.64 % 
+Bash                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+hyprlang                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 10 mins       ████████████████░░░░░░░░░   64.35 % 
+Neovim                   1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.65 % 
+
+🐱‍💻 Projects: 
+Unknown Project          2 hrs 14 mins       ███████████░░░░░░░░░░░░░░   45.55 % 
+superboi                 1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+boikills                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+ProjectAssets            19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+docs                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+
+💻 Operating System: 
+Windows                  2 hrs 36 mins       █████████████░░░░░░░░░░░░   52.92 % 
+Linux                    1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   33.82 % 
+WSL                      39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/subrat-dwi/subrat-dwi/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/03/2026 18:33:34 UTC
 <!--END_SECTION:waka-->
 
 ---
