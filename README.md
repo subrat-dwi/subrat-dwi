@@ -52,6 +52,11 @@
 <br/>
 
 ---
+## Weekly CodePlay
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 
 <!-- GITHUB STATS -->
 <div align="center">
