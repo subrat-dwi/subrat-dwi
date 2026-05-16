@@ -55,6 +55,8 @@
 ## Weekly CodePlay
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%203%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -81,7 +83,7 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 19:42:08 UTC
+ Last Updated on 16/05/2026 03:28:27 UTC
 <!--END_SECTION:waka-->
 
 ---
