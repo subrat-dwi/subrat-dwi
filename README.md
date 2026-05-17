@@ -55,21 +55,6 @@
 ## Weekly CodePlay
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%203%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -83,7 +68,7 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 13:26:43 UTC
+ Last Updated on 17/05/2026 19:13:46 UTC
 <!--END_SECTION:waka-->
 
 ---
