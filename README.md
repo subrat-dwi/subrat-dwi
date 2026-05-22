@@ -55,7 +55,7 @@
 ## Weekly CodePlay
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -73,17 +73,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ██████████░░░░░░░░░░░░░░░   41.38 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python                   12 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
 
 
- Last Updated on 22/05/2026 14:44:45 UTC
+ Last Updated on 22/05/2026 19:51:18 UTC
 <!--END_SECTION:waka-->
 
 ---
