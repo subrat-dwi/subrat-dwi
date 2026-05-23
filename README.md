@@ -55,19 +55,23 @@
 ## Weekly CodePlay
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 36 mins             ████████░░░░░░░░░░░░░░░░░   30.44 % 
+JavaScript               35 mins             ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Git Config               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Bash                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+CSS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +87,7 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 19:51:18 UTC
+ Last Updated on 23/05/2026 03:33:03 UTC
 <!--END_SECTION:waka-->
 
 ---
