@@ -55,37 +55,39 @@
 ## Weekly CodePlay
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2042%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 38 mins             ████████████░░░░░░░░░░░░░   46.50 % 
-JavaScript               24 mins             ████████░░░░░░░░░░░░░░░░░   30.07 % 
-Bash                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Python                   1 hr 45 mins        ████████████░░░░░░░░░░░░░   48.01 % 
+Markdown                 1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+JavaScript               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 22 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   13 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 ```
 
 
 
 
- Last Updated on 03/06/2026 16:54:36 UTC
+ Last Updated on 03/06/2026 21:18:13 UTC
 <!--END_SECTION:waka-->
 
 ---
