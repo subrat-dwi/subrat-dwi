@@ -51,6 +51,7 @@
     <p><b><a href="https://stall-brain.vercel.app/" target="_blank">BazaarBrain</a></b> — An AI based demand forecasting tool for local street vendors</p>
     <h3>more</h3>
     <p><b><a href="https://github.com/subrat-dwi/CLine-PDF" target="_blank">CLine PDF</a></b> — Interactive CLI tool to create and customize pdfs</p>
+    <p><b><a href="https://github.com/subrat-dwi/LetsWatch-MovieRecommendationSys" target="_blank">LetsWatch</a></b> — Provides personalized movie recommendations based on the user's watched movie dataset</p>
     
   </div>
 
