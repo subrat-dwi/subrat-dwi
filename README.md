@@ -16,7 +16,7 @@
   <a href="https://subratdwivedi.dev" target="_blank">
     <img width="128" src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif">
   </a>
-  <p>touch me :)</p>
+  <p><b>touch me :)</b></p>
 </div>
 
 ---
@@ -39,11 +39,19 @@
 <!-- PROJECTS -->
 <div align="center">
   <div>
+    <h3>backend-heavy systems</h3>
     <p><b><a href="https://passman.subratdwivedi.dev" target="_blank">Passman</a></b> — Secure Cloud-based Password Manager</p>
-    <p><b><a href="https://krosskopy.subratdwivedi.dev/krosskopy" target="_blank">KrossKopy</a></b> — Web-based cross-device clipboard</p>
-    <p><b><a href="https://volatileroom.subratdwivedi.dev" target="_blank">Volatile Room</a></b> — Minimalistic ephemeral private chat rooms</p>
     <p><b><a href="https://github.com/subrat-dwi/shubserver" target="_blank">shubserver</a></b> — A Go backend service providing Auth, Password Manager,<br>
       Notes APIs and more to my other cute little projects</p>
+    <h3>web apps</h3>
+    <p><b><a href="https://krosskopy.subratdwivedi.dev/krosskopy" target="_blank">KrossKopy</a></b> — Web-based cross-device clipboard</p>
+    <p><b><a href="https://volatileroom.subratdwivedi.dev" target="_blank">Volatile Room</a></b> — Minimalistic ephemeral private chat rooms</p>
+    <h3>vibecoded slop</h3>
+    <p><b><a href="https://ai-api-tester-ebon.vercel.app/" target="_blank">KrossKopy</a></b> — Test traditional or ai APIs by simulating realistic AI powered attack attempts</p>
+    <p><b><a href="https://stall-brain.vercel.app/" target="_blank">BazaarBrain</a></b> — An AI based demand forecasting tool for local street vendors</p>
+    <h3>more</h3>
+    <p><b><a href="https://github.com/subrat-dwi/CLine-PDF" target="_blank">CLine PDF</a></b> — Interactive CLI tool to create and customize pdfs</p>
+    
   </div>
 
   <img width="110" src="https://i.pinimg.com/originals/d3/6c/ec/d36cece974faf2eb660a0f688550035e.gif" />
