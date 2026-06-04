@@ -47,7 +47,7 @@
     <p><b><a href="https://krosskopy.subratdwivedi.dev/krosskopy" target="_blank">KrossKopy</a></b> — Web-based cross-device clipboard</p>
     <p><b><a href="https://volatileroom.subratdwivedi.dev" target="_blank">Volatile Room</a></b> — Minimalistic ephemeral private chat rooms</p>
     <h3>vibecoded slop</h3>
-    <p><b><a href="https://ai-api-tester-ebon.vercel.app/" target="_blank">KrossKopy</a></b> — Test traditional or ai APIs by simulating realistic AI powered attack attempts</p>
+    <p><b><a href="https://ai-api-tester-ebon.vercel.app/" target="_blank">AI Red-Team Sim</a></b> — Test traditional or ai APIs by simulating realistic AI powered attack attempts</p>
     <p><b><a href="https://stall-brain.vercel.app/" target="_blank">BazaarBrain</a></b> — An AI based demand forecasting tool for local street vendors</p>
     <h3>more</h3>
     <p><b><a href="https://github.com/subrat-dwi/CLine-PDF" target="_blank">CLine PDF</a></b> — Interactive CLI tool to create and customize pdfs</p>
