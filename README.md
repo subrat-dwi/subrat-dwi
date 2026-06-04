@@ -44,7 +44,7 @@
     <p><b><a href="https://github.com/subrat-dwi/shubserver" target="_blank">shubserver</a></b> — A Go backend service providing Auth, Password Manager,<br>
       Notes APIs and more to my other cute little projects</p>
     <h3>web apps</h3>
-    <p><b><a href="https://krosskopy.subratdwivedi.dev/home" target="_blank">KrossKopy</a></b> — Web-based cross-device clipboard</p>
+    <p><b><a href="https://krosskopy.subratdwivedi.dev" target="_blank">KrossKopy</a></b> — Web-based cross-device clipboard</p>
     <p><b><a href="https://volatileroom.subratdwivedi.dev" target="_blank">Volatile Room</a></b> — Minimalistic ephemeral private chat rooms</p>
     <h3>vibecoded slop</h3>
     <p><b><a href="https://ai-api-tester-ebon.vercel.app/" target="_blank">AI Red-Team Sim</a></b> — Test traditional or ai APIs by simulating realistic AI powered attack attempts</p>
