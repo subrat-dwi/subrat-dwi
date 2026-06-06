@@ -64,40 +64,40 @@
 ## Weekly CodePlay
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 13 mins       █████████████████░░░░░░░░   66.70 % 
-Markdown                 2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Python                   10 hrs 41 mins      ████████████████░░░░░░░░░   65.92 % 
+Markdown                 2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+JavaScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+reStructuredText         31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 16 mins      █████████████████████████   99.45 % 
-Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+VS Code                  16 hrs 8 mins       █████████████████████████   99.58 % 
+Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Linux                    12 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Python                   13 repos            ██████████░░░░░░░░░░░░░░░   40.62 % 
+JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
 
 
- Last Updated on 06/06/2026 13:49:30 UTC
+ Last Updated on 06/06/2026 19:27:14 UTC
 <!--END_SECTION:waka-->
 
 ---
