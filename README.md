@@ -8,9 +8,9 @@
 <!-- ABOUT -->
 <div align="center">
   <p>
-    a super chill dev who loves building on cool ideas!<br/> currently exploring 
-    <b>backend systems</b>, <b>full-stack apps</b>, and <b>creative side-projects</b>.
-    <br/>when I’m not coding, I’m probably dreaming about coding.
+    <b>software engineer</b><br/>· building real things with Python, Go & a bit of everything else.<br/>
+    · into systems, web and AI dev<br/>
+    · open to <i>internships</i> / <i>jobs</i> / <i>collaborations</i>
   </p>
 
   <a href="https://subratdwivedi.dev" target="_blank">
@@ -40,18 +40,41 @@
 <div align="center">
   <div>
     <h3>backend-heavy systems</h3>
-    <p><b><a href="https://passman.subratdwivedi.dev" target="_blank">Passman</a></b> — Secure Cloud-based Password Manager</p>
-    <p><b><a href="https://github.com/subrat-dwi/shubserver" target="_blank">shubserver</a></b> — A Go backend service providing Auth, Password Manager,<br>
-      Notes APIs and more to my other cute little projects</p>
+    <p>
+      <b><a href="https://passman.subratdwivedi.dev" target="_blank">Passman</a></b> — Secure cloud-based password manager<br/>
+    <code>Go · PostgreSQL · AES-256 · Cobra · Bubble Tea</code>
+    </p>
+    <p>
+      <b><a href="https://github.com/subrat-dwi/shubserver" target="_blank">shubserver</a></b> — Shared backend service (auth, notes, password APIs) powering my projects<br/>
+    <code>Go · Chi · PostgreSQL · REST · JWT</code>
+    </p>
     <h3>web apps</h3>
-    <p><b><a href="https://krosskopy.subratdwivedi.dev" target="_blank">KrossKopy</a></b> — Web-based cross-device clipboard</p>
-    <p><b><a href="https://volatileroom.subratdwivedi.dev" target="_blank">Volatile Room</a></b> — Minimalistic ephemeral private chat rooms</p>
-    <h3>vibecoded slop</h3>
-    <p><b><a href="https://ai-api-tester-ebon.vercel.app/" target="_blank">AI Red-Team Sim</a></b> — Test traditional or ai APIs by simulating realistic AI powered attack attempts</p>
-    <p><b><a href="https://stall-brain.vercel.app/" target="_blank">BazaarBrain</a></b> — An AI based demand forecasting tool for local street vendors</p>
+    <p>
+      <b><a href="https://krosskopy.subratdwivedi.dev" target="_blank">KrossKopy</a></b> — Web-based cross-device clipboard<br/>
+      <code>React · Firebase · TailwindCSS</code>
+    </p>
+    <p>
+      <b><a href="https://volatileroom.subratdwivedi.dev" target="_blank">Volatile Room</a></b> — Minimalistic ephemeral private chat rooms<br/>
+      <code>React · Express · SocketIO · TailwindCSS</code>
+    </p>
+    <h3>sidequests</h3>
+    <p>
+      <b><a href="https://ai-api-tester-ebon.vercel.app/" target="_blank">AI Red-Team Sim</a></b> — Test traditional or ai APIs by simulating realistic AI powered attack attempts<br/>
+    <code>Next · TS · Framer · Express</code>
+    </p>
+    <p>
+      <b><a href="https://stall-brain.vercel.app/" target="_blank">BazaarBrain</a></b> — An AI based demand forecasting tool for local street vendors<br/>
+      <code>React · Firebase · Tailwind · Vercel</code>
+    </p>
     <h3>more</h3>
-    <p><b><a href="https://github.com/subrat-dwi/CLine-PDF" target="_blank">CLine PDF</a></b> — Interactive CLI tool to create and customize pdfs</p>
-    <p><b><a href="https://github.com/subrat-dwi/LetsWatch-MovieRecommendationSys" target="_blank">LetsWatch</a></b> — Provides personalized movie recommendations based on the user's watched movie dataset</p>
+    <p>
+      <b><a href="https://github.com/subrat-dwi/CLine-PDF" target="_blank">CLine PDF</a></b> — Interactive CLI tool to create and customize pdfs<br/>
+    <code>Python · fpdf · pillow · rich</code>
+    </p>
+    <p>
+      <b><a href="https://github.com/subrat-dwi/LetsWatch-MovieRecommendationSys" target="_blank">LetsWatch</a></b> — Provides personalized movie recommendations based on the user's watched movie dataset<br/>
+    <code>Python · scikit-learn · Streamlit</code>
+    </p>
     
   </div>
 
