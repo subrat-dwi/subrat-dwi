@@ -26,7 +26,7 @@
 <!-- SKILLS -->
 <div align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=go,python,linux,arch,next,react,nodejs,ts,express,tailwind,postgres,mysql,mongodb,vercel,firebase,supabase,docker,bash,java,vscode,neovim,figma,godot,git&theme=dark&perline=8" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=python,go,linux,arch,next,react,ts,nodejs,express,fastapi,tailwind,postgres,mysql,supabase,mongodb,firebase,bash,docker,java,vscode,neovim,figma,godot,git&theme=dark&perline=8" alt="My Skills">
 </p>
   <!-- <img 
     src="https://www.readmecodegen.com/api/social-icon?name=python%2Cgo%2Creact%2Cjavascript%2Ctailwindcss%2Cjava%2Cflutter%2Cfirebase%2Cmongodb%2Cpostgresql%2Cdocker%2Cexpress%2Cnodejs&size=40&bg=%23000000&color=%23ffffff&reverseBackground=true" 
@@ -38,50 +38,73 @@
 
 <!-- PROJECTS -->
 <div align="center">
-  <div>
-    <h3>backend-heavy systems</h3>
-    <p>
-      <b><a href="https://passman.subratdwivedi.dev" target="_blank">Passman</a></b> — Secure cloud-based password manager<br/>
-    <code>Go · PostgreSQL · AES-256 · Cobra · Bubble Tea</code>
-    </p>
-    <p>
-      <b><a href="https://github.com/subrat-dwi/shubserver" target="_blank">shubserver</a></b> — Shared backend service (auth, notes, password APIs) powering my projects<br/>
+
+  <h2>flagship projects</h2>
+
+  <p>
+    <b><a href="https://passman.subratdwivedi.dev" target="_blank">Passman</a> — zero-knowledge CLI password manager</b><br/>
+    <sub>
+    · AES-256-GCM encryption with Argon2id key derivation<br/>
+    · background agent encrypts/decrypts passwords, auto-locks wiping keys from memory<br/>
+    · cloud-synced via a Go REST API backend with Dockerized deployment<br/>
+    · ships as a portable single binary across Linux, macOS & Windows via GitHub Actions CI/CD<br/>
+    </sub>
+    <code>Go · PostgreSQL · JWT · AES-256-GCM · Docker · GitHub Actions</code>
+  </p>
+
+  <p>
+    <b><a href="https://github.com/subrat-dwi/prag-personal-rag" target="_blank">PRAG</a> — personal RAG system · your own documents, instantly queryable</b><br/>
+    <sub>
+    · hybrid retrieval with dense embeddings + BM25 sparse search for improved response<br/>
+    · LLM-based query-intelligence for dynamic retrieval depth<br/>
+    · multi-format ingestion (PDF, DOCX, md, images) with Google Drive sync<br/>
+    · sub-2s responses · zero infra cost<br/>
+    </sub>
+    <code>Python · FastAPI · LangChain · Qdrant · Pydantic · Docker</code>
+  </p>
+
+  <p>
+    <b><a href="https://github.com/subrat-dwi/shubserver" target="_blank">Shubserver</a> — shared backend powering my projects</b><br/>
+    <sub>
+    · centralized Go service exposing auth, notes & password APIs<br/>
+    · JWT-secured endpoints · Chi router with structured middleware <br/>
+    · PostgreSQL with versioned migrations<br/>
+    · designed for multi-app consumption<br/>
+    </sub>
     <code>Go · Chi · PostgreSQL · REST · JWT</code>
-    </p>
-    <h3>web apps</h3>
-    <p>
-      <b><a href="https://krosskopy.subratdwivedi.dev" target="_blank">KrossKopy</a></b> — Web-based cross-device clipboard<br/>
-      <code>React · Firebase · TailwindCSS</code>
-    </p>
-    <p>
-      <b><a href="https://volatileroom.subratdwivedi.dev" target="_blank">Volatile Room</a></b> — Minimalistic ephemeral private chat rooms<br/>
-      <code>React · Express · SocketIO · TailwindCSS</code>
-    </p>
-    <h3>sidequests</h3>
-    <p>
-      <b><a href="https://ai-api-tester-ebon.vercel.app/" target="_blank">AI Red-Team Sim</a></b> — Test traditional or ai APIs by simulating realistic AI powered attack attempts<br/>
-    <code>Next · TS · Framer · Express</code>
-    </p>
-    <p>
-      <b><a href="https://stall-brain.vercel.app/" target="_blank">BazaarBrain</a></b> — An AI based demand forecasting tool for local street vendors<br/>
-      <code>React · Firebase · Tailwind · Vercel</code>
-    </p>
-    <h3>more</h3>
-    <p>
-      <b><a href="https://github.com/subrat-dwi/CLine-PDF" target="_blank">CLine PDF</a></b> — Interactive CLI tool to create and customize pdfs<br/>
-    <code>Python · fpdf · pillow · rich</code>
-    </p>
-    <p>
-      <b><a href="https://github.com/subrat-dwi/LetsWatch-MovieRecommendationSys" target="_blank">LetsWatch</a></b> — Provides personalized movie recommendations based on the user's watched movie dataset<br/>
-    <code>Python · scikit-learn · Streamlit</code>
-    </p>
-    
-  </div>
+  </p>
+
+  <br/>
+
+  <h3>web apps</h3>
+
+  <p>
+    <b><a href="https://krosskopy.subratdwivedi.dev" target="_blank">KrossKopy</a> — real-time cross-device clipboard sharing</b><br/>
+    <sub>
+    · content shared on one device instantly-ish appears across all active sessions<br/>
+    · anonymous-to-Google auth migration without data loss <br/>
+    · 80+ organic users <br/>
+    · installable PWA, keyboard-first navigation<br/>
+    </sub>
+    <code>React · Firebase · Firestore · Tailwind CSS</code>
+  </p>
+
+  <p>
+    <b><a href="https://volatileroom.subratdwivedi.dev" target="_blank">Volatile Room</a> — ephemeral private chat rooms</b><br/>
+    <sub>
+    · server-side memory-only architecture — automatic conversation purge on session end<br/>
+    · password-protected rooms · zero signup required<br/>
+    · rate limiting & username enforcement <br/>
+    · validated under 50+ concurrent rooms <br/>
+    </sub>
+    <code>React · Node.js · Express · Socket.IO · Tailwind CSS</code>
+  </p>
 
   <img width="110" src="https://i.pinimg.com/originals/d3/6c/ec/d36cece974faf2eb660a0f688550035e.gif" />
 </div>
 
 <br/>
+
 
 ---
 ## Weekly CodePlay
