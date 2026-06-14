@@ -8,7 +8,8 @@
 <!-- ABOUT -->
 <div align="center">
   <p>
-    <b>software engineer</b><br/>· building real things with Python, Go & a bit of everything else.<br/>
+    <b>software engineer</b><br/>
+    · building real things with Python, Go & a bit of everything else.<br/>
     · into systems, web and AI dev<br/>
     · open to <i>internships</i> / <i>jobs</i> / <i>collaborations</i>
   </p>
@@ -16,7 +17,9 @@
   <a href="https://subratdwivedi.dev" target="_blank">
     <img width="128" src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif">
   </a>
-  <p><b>touch me :)</b></p>
+  <p>
+    <b>touch me :)</b>
+  </p>
 </div>
 
 ---
@@ -27,7 +30,7 @@
 <div align="center">
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,go,linux,arch,next,react,ts,nodejs,express,fastapi,tailwind,postgres,mysql,supabase,mongodb,firebase,bash,docker,java,vscode,neovim,figma,godot,git&theme=dark&perline=8" alt="My Skills">
-</p>
+  </p>
   <!-- <img 
     src="https://www.readmecodegen.com/api/social-icon?name=python%2Cgo%2Creact%2Cjavascript%2Ctailwindcss%2Cjava%2Cflutter%2Cfirebase%2Cmongodb%2Cpostgresql%2Cdocker%2Cexpress%2Cnodejs&size=40&bg=%23000000&color=%23ffffff&reverseBackground=true" 
     alt="skills"
@@ -79,17 +82,6 @@
   <h3>web apps</h3>
 
   <p>
-    <b><a href="https://krosskopy.subratdwivedi.dev" target="_blank">KrossKopy</a> — real-time cross-device clipboard sharing</b><br/>
-    <sub>
-    · content shared on one device instantly-ish appears across all active sessions<br/>
-    · anonymous-to-Google auth migration without data loss <br/>
-    · 80+ organic users <br/>
-    · installable PWA, keyboard-first navigation<br/>
-    </sub>
-    <code>React · Firebase · Firestore · Tailwind CSS</code>
-  </p>
-
-  <p>
     <b><a href="https://volatileroom.subratdwivedi.dev" target="_blank">Volatile Room</a> — ephemeral private chat rooms</b><br/>
     <sub>
     · server-side memory-only architecture — automatic conversation purge on session end<br/>
@@ -98,6 +90,17 @@
     · validated under 50+ concurrent rooms <br/>
     </sub>
     <code>React · Node.js · Express · Socket.IO · Tailwind CSS</code>
+  </p>
+
+  <p>
+    <b><a href="https://krosskopy.subratdwivedi.dev" target="_blank">KrossKopy</a> — real-time cross-device clipboard sharing</b><br/>
+    <sub>
+    · content shared on one device instantly-ish appears across all active sessions<br/>
+    · anonymous-to-Google auth migration without data loss <br/>
+    · installable PWA, keyboard-first navigation<br/>
+    · 80+ organic users <br/>
+    </sub>
+    <code>React · Firebase · Firestore · Tailwind CSS</code>
   </p>
 
   <img width="110" src="https://i.pinimg.com/originals/d3/6c/ec/d36cece974faf2eb660a0f688550035e.gif" />
@@ -151,19 +154,19 @@ Go                       2 repos             ██░░░░░░░░░�
 <!-- GITHUB STATS -->
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrat-dwi&layout=donut&theme=tokyonight" 
-    alt="Top Languages" 
-  />
-</a>
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=subrat-dwi&theme=tokyonight&layout=compact" 
+      alt="GitHub Streak" 
+    />
+  </a>
 
-<a href="https://git.io/streak-stats">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=subrat-dwi&theme=tokyonight&layout=compact" 
-    alt="GitHub Streak" 
-  />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrat-dwi&layout=donut&theme=tokyonight" 
+      alt="Top Languages" 
+    />
+  </a>
 
 
 </div>
