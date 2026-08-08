@@ -113,7 +113,7 @@
 ## Weekly CodePlay
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2028%20mins-blue?style=flat)
 
@@ -121,13 +121,15 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 min               █████████████████████████   100.00 % 
+Python                   3 hrs 44 mins       ███████████████████████░░   90.10 % 
+CSV                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+Windows                  4 hrs 8 mins        █████████████████████████   99.58 % 
+Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -149,7 +151,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 19:00:05 UTC
+ Last Updated on 08/08/2026 01:47:59 UTC
 <!--END_SECTION:waka-->
 
 ---
