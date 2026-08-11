@@ -121,15 +121,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 44 mins       ███████████████████████░░   90.10 % 
-CSV                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Python                   3 hrs 43 mins       ███████████████████████░░   90.06 % 
+CSV                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 8 mins        █████████████████████████   99.58 % 
-Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -151,7 +150,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 19:00:02 UTC
+ Last Updated on 11/08/2026 01:54:22 UTC
 <!--END_SECTION:waka-->
 
 ---
