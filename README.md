@@ -193,7 +193,7 @@ Go                       2 repos             █░░░░░░░░░░�
     <img src="https://www.readmecodegen.com/api/social-icon?name=link&size=32&color=%23ffffff" />
   </a>
 
-  <a href="https://blog.subrat.dev" target="_blank">
+  <a href="https://codecondense.hashnode.dev" target="_blank">
     <img src="https://www.readmecodegen.com/api/social-icon?name=hashnode&size=32&color=%23ffffff" />
   </a>
 
