@@ -82,7 +82,7 @@
   <h3>web apps</h3>
 
   <p>
-    <b><a href="https://volatileroom.subrat.dev" target="_blank">Volatile Room</a> — ephemeral private chat rooms</b><br/>
+    <b><a href="https://vroom.subrat.dev" target="_blank">Volatile Room</a> — ephemeral private chat rooms</b><br/>
     <sub>
     · server-side memory-only architecture — automatic conversation purge on session end<br/>
     · password-protected rooms · zero signup required<br/>
