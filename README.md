@@ -14,7 +14,7 @@
     · open to <i>internships</i> / <i>jobs</i> / <i>collaborations</i>
   </p>
 
-  <a href="https://subratdwivedi.dev" target="_blank">
+  <a href="https://subrat.dev" target="_blank">
     <img width="128" src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif">
   </a>
   <p>
@@ -45,7 +45,7 @@
   <h2>flagship projects</h2>
 
   <p>
-    <b><a href="https://passman.subratdwivedi.dev" target="_blank">Passman</a> — zero-knowledge CLI password manager</b><br/>
+    <b><a href="https://passman.subrat.dev" target="_blank">Passman</a> — zero-knowledge CLI password manager</b><br/>
     <sub>
     · AES-256-GCM encryption with Argon2id key derivation<br/>
     · background agent encrypts/decrypts passwords, auto-locks wiping keys from memory<br/>
@@ -82,7 +82,7 @@
   <h3>web apps</h3>
 
   <p>
-    <b><a href="https://volatileroom.subratdwivedi.dev" target="_blank">Volatile Room</a> — ephemeral private chat rooms</b><br/>
+    <b><a href="https://volatileroom.subrat.dev" target="_blank">Volatile Room</a> — ephemeral private chat rooms</b><br/>
     <sub>
     · server-side memory-only architecture — automatic conversation purge on session end<br/>
     · password-protected rooms · zero signup required<br/>
@@ -93,7 +93,7 @@
   </p>
 
   <p>
-    <b><a href="https://krosskopy.subratdwivedi.dev" target="_blank">KrossKopy</a> — real-time cross-device clipboard sharing</b><br/>
+    <b><a href="https://krosskopy.subrat.dev" target="_blank">KrossKopy</a> — real-time cross-device clipboard sharing</b><br/>
     <sub>
     · content shared on one device instantly-ish appears across all active sessions<br/>
     · anonymous-to-Google auth migration without data loss <br/>
@@ -189,11 +189,11 @@ Go                       2 repos             █░░░░░░░░░░�
     <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&color=%23ffffff" />
   </a>
 
-  <a href="https://subratdwivedi.dev" target="_blank">
+  <a href="https://subrat.dev" target="_blank">
     <img src="https://www.readmecodegen.com/api/social-icon?name=link&size=32&color=%23ffffff" />
   </a>
 
-  <a href="https://blog.subratdwivedi.dev" target="_blank">
+  <a href="https://blog.subrat.dev" target="_blank">
     <img src="https://www.readmecodegen.com/api/social-icon?name=hashnode&size=32&color=%23ffffff" />
   </a>
 
