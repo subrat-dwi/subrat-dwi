@@ -121,19 +121,43 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 7 mins         ██████████████████████░░░   87.15 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Solidity                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   28 mins             █████████░░░░░░░░░░░░░░░░   37.17 % 
+Antigravity Desktop      24 mins             ████████░░░░░░░░░░░░░░░░░   31.28 % 
+VS Code                  18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Antigravity              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 53 mins (69.11%)
+
+✍️ 0 lines written by AI, 21 lines written by hand (0.0% AI-written)
+
+🔤 161,135 Input Tokens, 6,196 Output Tokens
+
+💵 $0.49 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 4 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 1,054 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +173,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 12:28:51 UTC
+ Last Updated on 26/10/2026 22:24:42 UTC
 <!--END_SECTION:waka-->
 
 ---
