@@ -163,17 +163,17 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
-JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   14 repos            █████████░░░░░░░░░░░░░░░░   37.84 % 
+JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 
 
 
 
- Last Updated on 31/10/2026 04:39:50 UTC
+ Last Updated on 31/10/2026 11:52:22 UTC
 <!--END_SECTION:waka-->
 
 ---
