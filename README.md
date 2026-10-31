@@ -121,43 +121,45 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 7 mins         ████████████████████░░░░░   79.04 % 
-Bash                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Solidity                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+TypeScript               1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   41.81 % 
+Markdown                 1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   37.75 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-Neovim                   28 mins             ████████░░░░░░░░░░░░░░░░░   33.72 % 
-VS Code                  26 mins             ████████░░░░░░░░░░░░░░░░░   30.81 % 
-Antigravity Desktop      24 mins             ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-Antigravity              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+VS Code                  1 hr 34 mins        ███████████░░░░░░░░░░░░░░   42.25 % 
+Opencode Cli             1 hr                ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+Neovim                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Antigravity Desktop      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+OpenCode                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 💻 Operating System: 
-Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (62.68%)
+⏱ AI Coding Time: 2 hrs 45 mins (73.39%)
 
-✍️ 0 lines written by AI, 21 lines written by hand (0.0% AI-written)
+✍️ 5,959 lines written by AI, 33 lines written by hand (99.45% AI-written)
 
-🔤 161,135 Input Tokens, 6,196 Output Tokens
+🔤 513,323 Input Tokens, 108,468 Output Tokens
 
-💵 $0.49 Estimated AI Cost This Week
+💵 $36.14 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 4 AI Prompts
+🧠 6 AI Sessions, 12 AI Prompts
 
+GLM                      5,979 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,054 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.45% of written lines came from AI
+📚 Verbose Prompter — average 2,262 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -173,7 +175,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 16:58:49 UTC
+ Last Updated on 31/10/2026 21:10:38 UTC
 <!--END_SECTION:waka-->
 
 ---
